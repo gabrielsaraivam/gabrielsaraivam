@@ -1,4 +1,4 @@
-## Eae blz? eu sou o Saraiva seja bem-vindo ao meu github
+## 
 
 <!--
 **gabrielsaraivam/gabrielsaraivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
