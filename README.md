@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Saraiva-Phyton" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
   <img align="center" alt="Saraiva-Bootstrao" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Saraiva-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Saraiva-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="right" alt="Saraiva-Gif" height="150" width="150" src="https://i.picasion.com/pic91/47473ace2483f43398bd0df5165f74a8.gif">
   
 
