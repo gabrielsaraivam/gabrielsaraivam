@@ -33,6 +33,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Saraiva-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Saraiva-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
  <img align="center" alt="Saraiva-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+ <img align="center" alt="Saraiva-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="right" alt="Saraiva-Gif" height="150" width="150" src="https://i.picasion.com/pic91/47473ace2483f43398bd0df5165f74a8.gif">
   
 
